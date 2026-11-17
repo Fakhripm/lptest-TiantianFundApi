@@ -41,6 +41,7 @@
   },
   "pnpm": {
     "overrides": {
+      "vite": "5.4.9",
       "source-map-js": "1.2.2",
       "rollup": "4.59.0",
       "postcss": "8.5.18",
