@@ -41,6 +41,7 @@
   },
   "pnpm": {
     "overrides": {
+      "braces": "3.0.3",
       "@vue/server-renderer": "3.5.42"
     }
   },
