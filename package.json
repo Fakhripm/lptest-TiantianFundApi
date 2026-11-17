@@ -41,6 +41,7 @@
   },
   "pnpm": {
     "overrides": {
+      "immutable": "4.3.9",
       "form-data": "4.0.6",
       "cross-spawn": "7.0.5",
       "browserslist": "4.28.7",
