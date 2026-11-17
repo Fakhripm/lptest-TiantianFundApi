@@ -41,6 +41,7 @@
   },
   "pnpm": {
     "overrides": {
+      "form-data": "4.0.6",
       "cross-spawn": "7.0.5",
       "browserslist": "4.28.7",
       "braces": "3.0.3",
