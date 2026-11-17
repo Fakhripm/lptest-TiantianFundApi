@@ -41,6 +41,7 @@
   },
   "pnpm": {
     "overrides": {
+      "source-map-js": "1.2.2",
       "rollup": "4.59.0",
       "postcss": "8.5.18",
       "picomatch": "2.3.2",
